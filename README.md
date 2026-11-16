@@ -3,31 +3,36 @@
 
 🎓 Estudante de Bacharelado em Ciência da Computação na São Paulo Tech School.
 
-Tenho interesse em tecnologia e no desenvolvimento de soluções, buscando explorar diferentes áreas da computação e ampliar meus conhecimentos por meio de projetos práticos.
+Tenho interesse em tecnologia e no desenvolvimento de soluções. Busco ampliar meus conhecimentos por meio de projetos práticos, experiências acadêmicas e novos desafios.
 
 ## Sobre mim
 
-- 📚 Estudante de Ciência da Computação.
+- 🎓 Graduanda em Ciência da Computação.
 - 💻 Desenvolvendo projetos acadêmicos e pessoais.
 - 🤝 Valorizo comunicação, colaboração e trabalho em equipe.
-- 🚀 Sempre buscando aprender novas tecnologias e desenvolver habilidades.
+- 🚀 Sempre buscando aprender e evoluir profissionalmente.
 
 ## Tecnologias e ferramentas
 
-- **Linguagens:** Java, Python, R e JavaScript.
-- **Banco de dados:** SQL e MySQL.
-- **Desenvolvimento web:** HTML e CSS.
-- **Cloud e infraestrutura:** AWS.
+**Linguagens:** Java, Python, R e JavaScript.
+
+**Banco de dados:** SQL e MySQL.
+
+**Desenvolvimento Web:** HTML e CSS.
+
+**Cloud e infraestrutura:** AWS.
 
 ## Projetos
 
-- **RoadVizor:** projeto de monitoramento e análise de infraestrutura.
-- **ETL-Gold:** projeto independente de processamento e consumo de dados.
-- **O-MUNDO-MAGICO:** projeto de Data Lake e análise de dados utilizando Python e AWS S3.
-- **Fotografia Poética:** desenvolvimento de uma plataforma web.
-- **Projeto Tomates:** projeto acadêmico desenvolvido em equipe.
+| Projeto | Descrição |
+|---|---|
+| RoadVizor | Monitoramento e análise de infraestrutura. |
+| ETL-Gold | Processamento e consumo de dados. |
+| O-MUNDO-MAGICO | Data Lake e análise de dados com Python e AWS S3. |
+| Fotografia Poética | Plataforma web de fotografia. |
+| Projeto Tomates | Projeto acadêmico desenvolvido em equipe. |
 
-## Vamos nos conectar?
+## Contato
 
-- 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/)
-- 🐙 GitHub: [EduardaSCrispim](https://github.com/EduardaSCrispim)
+- 💼 [LinkedIn](COLOQUE_SEU_LINKEDIN_AQUI)
+- 🐙 [GitHub](https://github.com/EduardaSCrispim)
