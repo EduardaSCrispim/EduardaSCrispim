@@ -19,9 +19,10 @@
 
 ### 📞 Contact Me:
 
+
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/eduarda-santos-crispim-b7a893312/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:eduarda.crispim@shool.sptech">
@@ -29,6 +30,7 @@
 </a>
 
 </div>
+
 
 ---
 
