@@ -12,15 +12,26 @@ Tenho interesse em tecnologia e no desenvolvimento de soluções. Busco ampliar 
 - 🤝 Valorizo comunicação, colaboração e trabalho em equipe.
 - 🚀 Sempre buscando aprender e evoluir profissionalmente.
 
-## Tecnologias e ferramentas
 
-**Linguagens:** Java, Python, R e JavaScript.
+## 🛠️ Tecnologias e ferramentas
 
-**Banco de dados:** SQL e MySQL.
+### Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Desenvolvimento Web:** HTML e CSS.
+### Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Cloud e infraestrutura:** AWS.
+### Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Cloud e infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 
 ## Projetos
 
