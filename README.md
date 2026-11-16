@@ -36,11 +36,13 @@
 
 
 
+
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=EduardaSCrispim&theme=github-dark&hide_border=true)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub Snake" />
 
 </div>
+
 
 
 
