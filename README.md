@@ -1,49 +1,40 @@
 
-# Olá! Eu sou a Eduarda Santos Crispim 👋
+<div align="center">
 
-🎓 Estudante de Bacharelado em Ciência da Computação na São Paulo Tech School.
+# Hi, I'm Eduarda Santos Crispim 👋
 
-Tenho interesse em tecnologia e no desenvolvimento de soluções. Busco ampliar meus conhecimentos por meio de projetos práticos, experiências acadêmicas e novos desafios.
+</div>
 
-## Sobre mim
+---
 
-- 🎓 Graduanda em Ciência da Computação.
-- 💻 Desenvolvendo projetos acadêmicos e pessoais.
-- 🤝 Valorizo comunicação, colaboração e trabalho em equipe.
-- 🚀 Sempre buscando aprender e evoluir profissionalmente.
+### 👩🏻‍💻 About Me:
 
+- 🎓 Computer Science student at São Paulo Tech School
+- 💻 Developing academic and personal projects in technology
+- 🚀 Exploring different areas of Computer Science
+- 🤝 I value communication, teamwork and continuous learning
+- 🌱 Always looking for new challenges and professional growth
 
-## 🛠️ Tecnologias e ferramentas
+---
 
-### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 📞 Contact Me:
 
-### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+<div align="center">
 
-### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-### Cloud e infraestrutura
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+</div>
 
+---
 
-## Projetos
+<div align="center">
 
-| Projeto | Descrição |
-|---|---|
-| RoadVizor | Monitoramento e análise de infraestrutura. |
-| ETL-Gold | Processamento e consumo de dados. |
-| O-MUNDO-MAGICO | Data Lake e análise de dados com Python e AWS S3. |
-| Fotografia Poética | Plataforma web de fotografia. |
-| Projeto Tomates | Projeto acadêmico desenvolvido em equipe. |
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=EduardaSCrispim&theme=github-dark&hide_border=true)
 
-## Contato
+</div>
 
-- 💼 [LinkedIn](COLOQUE_SEU_LINKEDIN_AQUI)
-- 🐙 [GitHub](https://github.com/EduardaSCrispim)
